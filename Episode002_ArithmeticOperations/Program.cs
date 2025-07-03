@@ -37,7 +37,7 @@
             Console.WriteLine($"Результат деления {result}");
             Console.WriteLine($"Результат деления по модулю {modulResult}");
 
-
+            // Время 29 минут
 
 
         }
