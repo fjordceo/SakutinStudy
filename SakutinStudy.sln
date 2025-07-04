@@ -23,6 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode009_PracticeShop", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode010_ConditionalСonstructions", "Episode010_ConditionalСonstructions\Episode010_ConditionalСonstructions.csproj", "{CEDEE2D0-A7D6-4948-9764-77C639BA0D17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode011_Switch", "Episode011_Switch\Episode011_Switch.csproj", "{445E3103-A60F-4D74-92CF-B663A93E6953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode012_PracticePassword", "Episode012_PracticePassword\Episode012_PracticePassword.csproj", "{6B4865D8-D4EB-4A2C-9553-E99E90D33E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode013_PracticeCurrencyConverter", "Episode013_PracticeCurrencyConverter\Episode013_PracticeCurrencyConverter.csproj", "{6677A100-1102-40A3-812E-A96D203D5AF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +75,18 @@ Global
 		{CEDEE2D0-A7D6-4948-9764-77C639BA0D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEDEE2D0-A7D6-4948-9764-77C639BA0D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEDEE2D0-A7D6-4948-9764-77C639BA0D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445E3103-A60F-4D74-92CF-B663A93E6953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445E3103-A60F-4D74-92CF-B663A93E6953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445E3103-A60F-4D74-92CF-B663A93E6953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445E3103-A60F-4D74-92CF-B663A93E6953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4865D8-D4EB-4A2C-9553-E99E90D33E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4865D8-D4EB-4A2C-9553-E99E90D33E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4865D8-D4EB-4A2C-9553-E99E90D33E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4865D8-D4EB-4A2C-9553-E99E90D33E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6677A100-1102-40A3-812E-A96D203D5AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6677A100-1102-40A3-812E-A96D203D5AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6677A100-1102-40A3-812E-A96D203D5AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6677A100-1102-40A3-812E-A96D203D5AF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
