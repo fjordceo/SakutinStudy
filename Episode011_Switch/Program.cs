@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string dayOfWeek;
+            string ? dayOfWeek;
             Console.Write("Введите день недели: ");
             dayOfWeek = Console.ReadLine();
 

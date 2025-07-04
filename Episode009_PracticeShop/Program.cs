@@ -11,10 +11,10 @@
 
             Console.WriteLine($"Добро пожаловать в пекарню! Сегодня еда по {foodUnitPrice} монет!");
             Console.Write("Сколько у вас золота?: ");
-            money = int.Parse(Console.ReadLine());
+            money = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"Вы можете купить {money/foodUnitPrice} единиц еды");
             Console.Write("Сколько единиц еды вы хотите купить?: ");
-            foodRequest = int.Parse(Console.ReadLine());
+            foodRequest = Convert.ToInt32(Console.ReadLine());
 
             isAbleToPay = money >= foodRequest * foodUnitPrice; 
 

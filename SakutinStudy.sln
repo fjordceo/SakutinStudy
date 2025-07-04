@@ -29,6 +29,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode012_PracticePassword
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode013_PracticeCurrencyConverter", "Episode013_PracticeCurrencyConverter\Episode013_PracticeCurrencyConverter.csproj", "{6677A100-1102-40A3-812E-A96D203D5AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode014_Cycles", "Episode014_Cycles\Episode014_Cycles.csproj", "{7501E7BF-12CA-4D27-A526-A46C0A9B7FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode015_PracticePasswordCount", "Episode015_PracticePasswordCount\Episode015_PracticePasswordCount.csproj", "{06B0FF76-F1EC-4B4D-8996-2D709E233981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode016_PracticeBankDeposite", "Episode016_PracticeBankDeposite\Episode016_PracticeBankDeposite.csproj", "{41B1AFD0-9FBE-4BF7-A70F-69B993B1C57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode017_PracticePlayerVsEnemy", "Episode017_PracticePlayerVsEnemy\Episode017_PracticePlayerVsEnemy.csproj", "{11BC9C89-ECD4-4F8F-8FDD-39850AB2FBCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +95,22 @@ Global
 		{6677A100-1102-40A3-812E-A96D203D5AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6677A100-1102-40A3-812E-A96D203D5AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6677A100-1102-40A3-812E-A96D203D5AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7501E7BF-12CA-4D27-A526-A46C0A9B7FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7501E7BF-12CA-4D27-A526-A46C0A9B7FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7501E7BF-12CA-4D27-A526-A46C0A9B7FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7501E7BF-12CA-4D27-A526-A46C0A9B7FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B0FF76-F1EC-4B4D-8996-2D709E233981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B0FF76-F1EC-4B4D-8996-2D709E233981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B0FF76-F1EC-4B4D-8996-2D709E233981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B0FF76-F1EC-4B4D-8996-2D709E233981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B1AFD0-9FBE-4BF7-A70F-69B993B1C57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B1AFD0-9FBE-4BF7-A70F-69B993B1C57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B1AFD0-9FBE-4BF7-A70F-69B993B1C57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B1AFD0-9FBE-4BF7-A70F-69B993B1C57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BC9C89-ECD4-4F8F-8FDD-39850AB2FBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BC9C89-ECD4-4F8F-8FDD-39850AB2FBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BC9C89-ECD4-4F8F-8FDD-39850AB2FBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BC9C89-ECD4-4F8F-8FDD-39850AB2FBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

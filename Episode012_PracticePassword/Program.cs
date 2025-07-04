@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string password = "123qwe";
-            string userInput;
+            string ? userInput;
 
             Console.Write("Введите пароль: ");
             userInput = Console.ReadLine();

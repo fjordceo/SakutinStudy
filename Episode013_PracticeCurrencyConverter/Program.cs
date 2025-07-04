@@ -14,10 +14,10 @@
             int quantityToConvert;
 
             Console.Write("Введите количество рублей в кошельке: ");
-            rublesInWallet = float.Parse(Console.ReadLine());
+            rublesInWallet = Convert.ToSingle(Console.ReadLine());
 
             Console.Write("Введите количество долларов в кошельке: ");
-            dollarsInWallet = float.Parse(Console.ReadLine());
+            dollarsInWallet = Convert.ToSingle(Console.ReadLine());
 
             Console.WriteLine("Добро пожаловать в конвертер валют!");
             Console.WriteLine("Доступные операции:");
@@ -26,13 +26,13 @@
             Console.Write("Выберите операцию:");
             
 
-            currentOpperation = int.Parse(Console.ReadLine());
+            currentOpperation = Convert.ToInt32(Console.ReadLine());
 
             switch (currentOpperation)
             {
                 case 1:
                     Console.Write("Сколько долларов вы хотите перевести в рубли?: ");
-                    quantityToConvert = int.Parse(Console.ReadLine());
+                    quantityToConvert = Convert.ToInt32(Console.ReadLine());
                     if (quantityToConvert > dollarsInWallet)
                     {
                         Console.WriteLine("Недостаточно долларов в кошельке для перевода.");
@@ -48,7 +48,7 @@
                     break;
                 case 2:
                     Console.Write("Сколько рублей вы хотите перевести в доллары?: ");
-                    quantityToConvert = int.Parse(Console.ReadLine());
+                    quantityToConvert = Convert.ToInt32(Console.ReadLine());
                     if (quantityToConvert > rublesInWallet)
                     {
                         Console.WriteLine("Недостаточно рублей в кошельке для перевода.");
@@ -69,3 +69,5 @@
         }
     }
 }
+
+// 1 час 43 минуты

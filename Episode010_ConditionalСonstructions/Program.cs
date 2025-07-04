@@ -7,7 +7,7 @@
             int age;
 
             Console.Write("Введите ваш возраст!: ");
-            age = int.Parse(Console.ReadLine());
+            age = Convert.ToInt32(Console.ReadLine());
             
 
 
